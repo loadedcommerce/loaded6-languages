@@ -1,0 +1,5 @@
+<?php
+define('MODULE_CHECKOUT_SUCCESS_BANNERS_TITLE', 'CRE Fahne Modul');
+define('MODULE_CHECKOUT_SUCCESS_BANNERS_DESCRIPTION', 'CRE Fahne Prüfung Erfolg Modul');
+define('TEXT_BANNERS_DEFAULT', 'Kein');
+?>
